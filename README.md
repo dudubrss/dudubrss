@@ -1,10 +1,10 @@
-Eaii, eu sou o Eduardo Barros! Muito prazer🤝
-- ♦️  De manhã universitário, de tarde controlador de acesso (atualmente)
-- 🕮 Aprimorando a liguaguem Java
-- ❤️ Craque na linguagem C#
-- 💌 Contate-me no meu email profissional: eduardobarros13576@gmail.com
+Hello!! my name is Eduardo Barros, really nice to have you here🤝
+- ♦️  At morning college, at afternoon currently working in supermarket
+- 🕮 Learning Java language
+- ❤️ Master Csharp language
+- 💌 My professional email: eduardobarros13576@gmail.com
 - 📱 WhatsApp:(11) 91316-2324
-- ♂️ Pronomes: ele/dele (homem hétero cisgênero)
+- ♂️ pronouns: he/him (cisgender)
 - <div align="center">
   <a href="https://github.com/dudubrss">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dudubrss&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
