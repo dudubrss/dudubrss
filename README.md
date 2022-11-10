@@ -3,7 +3,7 @@ Hello!! my name is Eduardo Barros, really nice to have you here🤝
 - 🕮 Learning Java language
 - ❤️ Master Csharp language
 - 💌 My professional email: eduardobarros13576@gmail.com
-- 📱 WhatsApp:(11) 91316-2324
+- 📱 WhatsApp:+55 (11) 91316-2324
 - ♂️ pronouns: he/him (cisgender)
 - <div align="center">
   <a href="https://github.com/dudubrss">
