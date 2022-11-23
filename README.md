@@ -11,3 +11,4 @@ Hello!! my name is Eduardo Barros, really nice to have you here🤝
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudubrss&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
+ ![Snake animation](https://github.com/dudubrss/dudubrss/blob/output/github-contribution-grid-snake.svg)
