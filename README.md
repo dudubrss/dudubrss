@@ -1,5 +1,5 @@
 Hello!! my name is Eduardo Barros, really nice to have you here🤝
-- ♦️  At morning college, at afternoon currently working in supermarket
+- ♦️  At morning college, currently loking for occupation at afternoon
 - 🕮 Learning Java language
 - ❤️ Master Csharp language
 - 💌 My professional email: eduardobarros13576@gmail.com
